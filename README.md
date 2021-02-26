@@ -1,9 +1,10 @@
 # xqbic-magento
 
 Step 1.
-Copy file  into magento2 root directory /app/code/
+Copy the folder xqbic into magento2 project under  /app/code/
 
-Step 2. Run following commands on your terminal
+Step 2.
+Run following commands on your terminal
 
   ~/] php bin/magento setup:upgrade
   
